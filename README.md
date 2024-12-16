@@ -5,7 +5,7 @@ This repository contains a RESTful API built using Spring Boot for an e-commerce
 ## Features
 - **Product Management**: Add, update, delete, and view products.
 - **Category Management**: Create, update, delete, and retrieve categories.
-- **User Authentication**: User registration, login, logout, and profile retrieval.
+- **User Authentication**: User registration, login, logout, and create new profile.
 - **Cart Management**: Add, update, delete, and view cart items.
 - **Address Management**: Manage user addresses.
 - **Order Management**: Place orders and manage order details.
