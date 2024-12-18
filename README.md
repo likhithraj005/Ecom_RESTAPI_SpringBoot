@@ -11,6 +11,7 @@ This repository contains a RESTful API built using Spring Boot for an e-commerce
 - **Order Management**: Place orders and manage order details.
 - **Database Integration**: Uses a Neon database for storing data.
 - **Deployment**: Deployed on the Render platform.
+- **Authentication**: JWT, Cookies
 
 ## Technologies Used
 - **Backend**: Spring Boot: https://ecom-deployment-latest.onrender.com
