@@ -16,6 +16,7 @@ This repository contains a RESTful API built using Spring Boot for an e-commerce
 - **Backend**: Spring Boot: https://ecom-deployment-latest.onrender.com
 - **Database**: PostgresSQL
 - **Deployment Platform**: Render, neon
+- **Containerization**: Docker (for building and deploying the app)
 
 ## API Testing
 You can test the API endpoints using Postman: https://documenter.getpostman.com/view/29635048/2sAYHzGNcg
