@@ -26,3 +26,9 @@ You can test the API endpoints using Postman: https://documenter.getpostman.com/
 The backend is deployed on Render, and the database is hosted on Neon.
 
 For more details, refer to the API documentation or test the endpoints directly using Postman.
+
+## Note
+
+Please note that it may take 2-5 minutes for the REST APIs to fully render and fetch data. If you do not see the expected output, kindly reload the page after a few minutes to get the desired result.
+
+Thank you for your patience!
